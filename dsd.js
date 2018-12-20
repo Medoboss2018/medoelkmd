@@ -249,7 +249,7 @@ ${prefix}queue ⇏ لمعرفة قآئمة التشغيل
    }
    });
  
-const devs = ['439393453332234243'];
+const devs = ['439393453332234243','438621328246046732'];
 const adminprefix = "&";
 client.on('message', message => {
     var argresult = message.content.split(` `).slice(1).join(' ');
